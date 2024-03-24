@@ -1,0 +1,1 @@
+SUCCESS_SOUND = pygame.mixer.Sound("success_sound.wav")
